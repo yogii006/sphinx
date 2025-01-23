@@ -1,0 +1,10 @@
+streamlit==1.14.0
+requests==2.28.1
+beautifulsoup4==4.11.1
+urllib3==1.26.12
+PyPDF2==2.11.2
+langchain==0.0.132
+langchain-community==0.0.16
+sentence-transformers==2.2.0
+faiss-cpu==1.7.2
+python-dotenv==0.20.0
