@@ -2,8 +2,8 @@
 # Chat with PDFs and Websites
 
 This project allows you to chat with information extracted from multiple PDFs or a website. The application uses Streamlit for the web interface and Langchain for processing the text data.
-##Note
-**It may take 8-10 min to do scrapping data from website only, so wait for this much time to ask question.
+## Note
+**It may take 8-10 min to do scrapping data from website only, so wait for this much time to ask question.** 
 ## Features
 
 - **PDF Chat**: Upload multiple PDF files and ask questions related to the content.
